@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![alt text](https://github.com/weeidl/Oasis_web/blob/master/Oasis.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
